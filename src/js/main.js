@@ -1,6 +1,6 @@
 //P5 SKETCH
 
-let p5c = document.getElementById('c2');
+let p5c = document.getElementById('container');
 let width = p5c.offsetWidth;
 let height = p5c.offsetHeight;
 
